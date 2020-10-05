@@ -3,6 +3,18 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+
+
+#my filters
+dist/
+Command_Line_Menu.egg-info/
+build/
+setup.py
+
+
+
+
+
 # User-specific files
 *.rsuser
 *.suo
