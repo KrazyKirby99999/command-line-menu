@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='Command Line Menu',
-      version='0.2.1',
+      version='0.2.2',
       description='A simple module to create a menu for command line programs.',
       url='https://github.com/KrazyKirby99999/command-line-menu',
       author='KrazyKirby99999',

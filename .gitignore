@@ -9,7 +9,7 @@
 Command_Line_Menu.egg-info/
 build
 dist
-
+build_and_upload.bat
 
 
 # User-specific files
