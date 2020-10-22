@@ -6,10 +6,8 @@
 
 
 #my filters
-dist/
 Command_Line_Menu.egg-info/
-build/
-setup.py
+
 
 
 
