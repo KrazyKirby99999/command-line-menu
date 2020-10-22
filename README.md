@@ -1,0 +1,1 @@
+A simple module to create a menu for command line programs.
