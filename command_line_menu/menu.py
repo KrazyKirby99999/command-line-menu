@@ -58,13 +58,11 @@ class NewMenu:
             os.system("pause")
             os.system("cls")
 
-
-    
-
-menu = NewMenu()
-menu.set_title("Example New Title")
-menu.add_command("Do the command that prints \"Hello World\"",print,"Hello World")
-menu.add_command("Do the command that print list",print,["hello",123])
-menu.add_command("Set variable x to 5","statement","x=5")
-menu.add_command("Print variable x","expression","print(x)")
-menu.loop()
+if __name__ == "__main__":
+    menu = NewMenu()
+    menu.set_title("Example New Title")
+    menu.add_command("Do the command that prints \"Hello World\"",print,"Hello World")
+    menu.add_command("Do the command that print list",print,["hello",123])
+    menu.add_command("Set variable x to 5","statement","x=5")
+    menu.add_command("Print variable x","expression","print(x)")
+    menu.loop()
