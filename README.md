@@ -3,7 +3,6 @@
 
 2020-10-22
 
-* [Prerelease v0.2](https://github.com/KrazyKirby99999/command-line-menu/releases/tag/0.2)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Features](#features)
