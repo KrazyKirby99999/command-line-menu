@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(name='Command Line Menu',
       version='0.2.2',
-      description='A simple module to create a menu for command line programs.',
+      description='A module to create simple menus for command line programs.',
       long_description=long_description,
       long_description_content_type="text/markdown",
       url='https://github.com/KrazyKirby99999/command-line-menu',
