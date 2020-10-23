@@ -14,6 +14,7 @@ setup(name='Command Line Menu',
       license='GNU AGPLv3',
       packages=setuptools.find_packages(),
       zip_safe=False,
+      python_requires='>=3.4',
       classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU AGPLv3 License",
