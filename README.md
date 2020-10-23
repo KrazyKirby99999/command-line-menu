@@ -22,22 +22,22 @@ Installation
 
 Usage
 ------------
-* Import module\s\s
+* Import module  
         ```from command_line_menu import menu```
 
-* Create object from the class NewMenu\s\s
+* Create object from the class NewMenu  
         ```mymenu = menu.NewMenu()```
 
-* Add title to menu\s\s
+* Add title to menu  
         ```mymenu.set_title("Example New Title")```
 
-* Add command option to menu\s\s
+* Add command option to menu  
         ```mymenu.add_command("Do the command that prints \\"Hello World\\"",print,"Hello World")```
 
-* Display menu and loop\s\s
+* Display menu and loop  
        ```mymenu.loop()```
 
-* Display menu once (optional, can be used instead of the method .loop() )\s\s
+* Display menu once (optional, can be used instead of the method .loop() )  
         ```mymenu.show()```
 
 Features
