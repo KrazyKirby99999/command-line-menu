@@ -15,9 +15,9 @@ Installation
 * Have Python 3.4 or higher installed with pip
   Install Python from [HERE](https://www.python.org/) if not already installed.
 
-* Install the latest release of the package from pip
-        python -m pip install --upgrade pip
-		pip install Command-Line-Menu==0.2.2
+* Install the latest release of the package from pip  
+        ```python -m pip install --upgrade pip```  
+		```pip install Command-Line-Menu==0.2.2```
 
 Usage
 ------------
